@@ -34,7 +34,11 @@ dependencies {
 	
 	compile(rootProject.ext.libRxJava)
 	compile(rootProject.ext.libRxAndroid)
+	compile(rootProject.ext.libRxLifecycle)
+	
+	compile(rootProject.ext.libFresco)
 	
 	compile(rootProject.ext.libRetrofit)
 	compile(rootProject.ext.libRetrofitAdapterRxJava)
+	compile(rootProject.ext.libRetrofitGson)
 }

@@ -37,7 +37,11 @@ ext {
 	libRxAndroid = 'io.reactivex:rxandroid:1.2.1'
 	libRxLifecycle = 'com.trello:rxlifecycle:1.0'
 	
+	libFresco = 'com.facebook.fresco:fresco:1.1.0'
+	
 	libRetrofit = 'com.squareup.retrofit2:retrofit:2.3.0'
 	libRetrofitAdapterRxJava = 'com.squareup.retrofit2:adapter-rxjava:2.2.0'
+	libRetrofitGson = 'com.squareup.retrofit2:converter-gson:2.0.2'
+	
 	libGson = 'com.google.code.gson:gson:2.6.2'
 }
